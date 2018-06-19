@@ -6,4 +6,4 @@ de este paper http://www.ivanescobar.com/IRISPaper.pdf
 
 Al ejecutar el programa nos pide el numero de neuronas hidden
 
-![alt text](https://raw.githubusercontent.com/patrick100/Backpropagation/entrada.png)
+![alt text](https://raw.githubusercontent.com/patrick100/Backpropagation/entradas.png)
