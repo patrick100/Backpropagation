@@ -35,5 +35,12 @@ empieza a jugar.
 
 
 ![alt text](/bot.png "Bot Ejemplo Jugando")
+Para instalarlo se siguio este tutorial https://youtu.be/v99ZIMsjTPM
+
+En esta pagina http://www.sscaitournament.com/index.php?action=scores 
+se encuentran los bots con mayores records donde solamente es
+necesario bajarse su .dll para poder probarlos
+
+
 
 
